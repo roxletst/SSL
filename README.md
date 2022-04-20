@@ -1,2 +1,2 @@
-# SSL
-Sintaxis y Semántica de los Lenguajes K2055
+# SSL 2022
+Roxana Steinman - roxletst - Sintaxis y Semántica de los Lenguajes K2055
